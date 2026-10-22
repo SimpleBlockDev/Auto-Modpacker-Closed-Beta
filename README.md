@@ -1,6 +1,6 @@
 # Auto-Modpacker-Beta
 
-```markdown
+
 # 🛠️ Minecraft Mod Toolkit
 
 **Powerful CLI for searching, collecting, building and updating Minecraft modpacks across Modrinth & CurseForge.**
