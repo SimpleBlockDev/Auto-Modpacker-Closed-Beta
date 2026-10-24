@@ -128,4 +128,6 @@ Made for people who build and maintain serious modpacks.
 the description was made with the help of grok, I myself do not use AI in the code and I did it with the help of grok due to the fact that it is 2 pm and the person asked to describe the script
 ```
 
+хуйня
+
 
